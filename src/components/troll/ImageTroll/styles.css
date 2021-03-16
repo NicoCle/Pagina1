@@ -1,0 +1,9 @@
+.pepe {
+  width: 300px;
+  display: flex;
+  height: 160px;
+  color: aliceblue;
+  line-height: 160px;
+  text-align: center;
+  background: coral;
+}
